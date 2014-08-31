@@ -1,2 +1,2 @@
-FROM dockerimages/ubuntu-core-build:14.10
+FROM dockerimages/ubuntu-core-build:latest
 MAINTAINER Frank Lemanschik
