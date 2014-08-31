@@ -1,4 +1,4 @@
-FROM dockerimages/ubuntu-core:latest
+FROM dockerimages/ubuntu-core:14.10
 MAINTAINER Frank Lemanschik
 RUN apt-get update \
  && apt-get install -y \
